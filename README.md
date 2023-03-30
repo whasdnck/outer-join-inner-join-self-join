@@ -28,3 +28,4 @@
 ### 1개의 컬럼 내에 섞여있는 여러 레코드들을 다른 컬럼을 통해서 위계 또는 관계를 알 수 있는 모습으로 조회할 수 있습니다.
 ![SE-b58f1309-1d60-4b00-a853-a24d670cd1f7](https://user-images.githubusercontent.com/127116197/228699469-da29d789-735a-4bcb-b992-8dbdebd2fb7f.jpg)
 
+[Uploading 짭클스.lnk…]()
