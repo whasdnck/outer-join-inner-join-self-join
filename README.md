@@ -11,6 +11,8 @@
 ### 전체 외부 결합 : Left Outer Join과 Right Outer Join의 결과를 결합한다.
 # ineer join 코딩
 ![화면 캡처 2023-03-30 094828](https://user-images.githubusercontent.com/127116197/228699663-c1cb87c8-e573-4304-bc49-0204e2e43ac6.png)
+## 출력
+![화면 캡처 2023-03-30 095248](https://user-images.githubusercontent.com/127116197/228700221-a050e2ae-04d9-403a-b1d1-013b349a193e.png)
 # outer join 이란?
 ### OUTER JOIN은 조인하는 여러테이블에서 한 쪽에는 데이터가 있고, 한 쪽에는 데이터가 없는 경우,
 ### 데이터가 있는 쪽 테이블의 내용을 모두 출력하는 것입니다.
