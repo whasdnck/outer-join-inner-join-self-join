@@ -9,7 +9,7 @@
 ### 왼쪽 외부 결합 : LEFT 테이블의 모든 행과 두 테이블간에 일치하는 레코드를 반환한다.
 ### 오른쪽 외부 결합 : RIGHT 테이블의 모든 행과 두 테이블간에 일치하는 레코드를 반환한다.
 ### 전체 외부 결합 : Left Outer Join과 Right Outer Join의 결과를 결합한다.
-# ineer join 코딩
+# ineer join 코딩.
 ![화면 캡처 2023-03-30 094828](https://user-images.githubusercontent.com/127116197/228699663-c1cb87c8-e573-4304-bc49-0204e2e43ac6.png)
 ## 출력
 ![화면 캡처 2023-03-30 095248](https://user-images.githubusercontent.com/127116197/228700221-a050e2ae-04d9-403a-b1d1-013b349a193e.png)
